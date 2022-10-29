@@ -4,8 +4,13 @@
 </p>
 <p align="center">
 <b>Cyber Security RedTeam</b>
-
 </p>
 
 
-Reach me on <a href="https://www.linkedin.com/in/allace">Linkedln</a> |or| <a href="https://tryhackme.com/p/All4ce">TryHackMe</a>
+<p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/All4ce.png" alt="TryHackMe">
+
+  
+<b>Contrate-me pra um README profissional como o meu</b>
+</p>
+Reach me on <a href="https://www.linkedin.com/in/allace">Linkedln</a>
