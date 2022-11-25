@@ -11,6 +11,5 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/All4ce.png" alt="TryHackMe">
 
   
-<b>Cyber Security Research</b>
 </p>
 
