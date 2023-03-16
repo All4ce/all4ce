@@ -9,7 +9,6 @@
 
 <p align="center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/All4ce.png" alt="TryHackMe">
-  <script src="https://tryhackme.com/badge/963558"></script>
   
 </p>
 
